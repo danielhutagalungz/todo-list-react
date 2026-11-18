@@ -1,6 +1,6 @@
-Nama : Daniel Audrey Juanito Hutagalung
-NIM : 251401089
-KOM : B
+Nama : Daniel Audrey Juanito Hutagalung  
+NIM : 251401089  
+KOM : B  
 LAB : 4
 
 | Halaman | Screenshot |
